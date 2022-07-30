@@ -8,6 +8,7 @@
 
 ```
 asdf plugin-add octant https://github.com/virtualstaticvoid/asdf-octant.git
+asdf install octant latest
 ```
 
 ## Use
